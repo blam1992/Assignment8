@@ -1,0 +1,3 @@
+Option 1 = Color: Yellow, Vibration Intesity: 5, Alarm Length: 1000
+Option 2 = Color: Red, Vibration Intensity: 10, Alarm Length: 60
+Option 3 = Color: Blue, Vibration Intensity: 7, Alarm Length: 500
